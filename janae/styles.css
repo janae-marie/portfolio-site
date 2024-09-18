@@ -7,6 +7,11 @@ header {
     text-align: center;
 }
 
+header.button {
+    background-color: #303D41;
+    color: #fff;
+}
+
 nav {
 
 }
@@ -20,7 +25,8 @@ nav.hover {
 }
 
 body {
-
+    background-color: #E0E2ED;
+    color: #303D41;
 }
 
 footer {
